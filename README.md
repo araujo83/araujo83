@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @araujo83
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Python, SQL
-- 💞️ I’m looking to collaborate on ...Back end development
+- 👀 I’m interested in ...automation, IT development
+- 🌱 I’m currently learning ...Front End Techologies
+- 💞️ I’m looking to collaborate on ...Back/front End development
 - 📫 How to reach me ...
 
 <!---
